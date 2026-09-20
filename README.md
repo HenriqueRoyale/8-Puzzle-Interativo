@@ -109,7 +109,7 @@ puzzle.exe
 
 ---
 
-## 👥 Equipa de Desenvolvimento
+## 👥 Equipe de Desenvolvimento
 
 Este projeto foi desenvolvido em grupo no âmbito do curso de **Ciência de Dados e Inteligência Artificial** na PUC-Campinas.
 
